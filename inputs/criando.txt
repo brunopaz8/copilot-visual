@@ -1,0 +1,2 @@
+Aqui eu estava testando a capacidade da ia de gerar uma imagem:
+crie a imgem de um rapaz progamando um jogo.
